@@ -66,6 +66,6 @@ liệu mẫu.
 Không tải mật khẩu thật hoặc dữ liệu cá nhân nhạy cảm lên repository
 công khai.
 8. Thông tin sinh viên
-- Họ và tên: Điền họ và tên
-- Lớp: Điền lớp
-- Môn học: Điền tên môn học
+- Họ và tên: Dương Minh Vũ
+- Lớp: TH30.18
+- Môn học: Lập trình java
